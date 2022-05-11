@@ -9,7 +9,7 @@ works on x86_64 computers (Windows). */
 int main() {
     printf("Hello World!\n");
     printf("This is Wonkey's first ever C program that he wrote on his own!\n");
-	  printf("(This is a modified version that actually works [x86_64]).");
+    printf("(This is a modified version that actually works [x86_64]).");
 	getchar();
 }
 
